@@ -1,8 +1,5 @@
-Here's a detailed README description for your portfolio project:
 
----
-
-## 🌐 Personal Portfolio Website — Satyanarayana Kattunga
+## Satyanarayana Kattunga
 
 A fully responsive, single-page **Data Analyst Portfolio Website** built with pure **HTML, CSS, and Vanilla JavaScript** — no frameworks, no build tools, no dependencies to install. Just open and run.
 
